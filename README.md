@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Pakistan |AI/ML Enthusiast</h3>
 
 
-- 🔭 I’m currently working on **Machine Leaning**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Machine Leaning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Frontend development**
 
