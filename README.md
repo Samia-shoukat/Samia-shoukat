@@ -14,7 +14,6 @@
 ### 🚀 About Me
 
 - 🤖 I'm currently working as an **AI Engineer**
-- 💼 I'm freelancing on **Upwork**
 - 🌱 Currently sharpening my skills in **Machine Learning**
 - 💬 Ask me about **AI/ML & Frontend Development**
 - 📫 Reach me at **samiashoukat01@gmail.com**
