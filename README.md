@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Samia Shoukat 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+Pakistan;AI%2FML+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI+Engineer+from+Pakistan;Freelancing+on+Upwork;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,11 +13,12 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Machine Learning**
-- 🌱 Currently learning **Machine Learning**
-- 💬 Ask me about **Frontend Development**
+- 🤖 I'm currently working as an **AI Engineer**
+- 💼 I'm freelancing on **Upwork**
+- 🌱 Currently sharpening my skills in **Machine Learning**
+- 💬 Ask me about **AI/ML & Frontend Development**
 - 📫 Reach me at **samiashoukat01@gmail.com**
-- ⚡ Fun fact: I enjoy turning ideas into clean, working interfaces
+- ⚡ Fun fact: I enjoy turning ideas into clean, working products
 
 ---
 
@@ -29,6 +30,9 @@
   </a>
   <a href="mailto:samiashoukat01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~yourprofileid" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
   </a>
 </p>
 
@@ -64,6 +68,14 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samia-shoukat&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samia-shoukat/samia-shoukat/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
