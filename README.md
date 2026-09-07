@@ -30,9 +30,6 @@
   <a href="mailto:samiashoukat01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~yourprofileid" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-  </a>
 </p>
 
 ---
