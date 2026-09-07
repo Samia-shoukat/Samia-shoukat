@@ -17,7 +17,6 @@
 - 🌱 Currently sharpening my skills in **Machine Learning**
 - 💬 Ask me about **AI/ML & Frontend Development**
 - 📫 Reach me at **samiashoukat01@gmail.com**
-- ⚡ Fun fact: I enjoy turning ideas into clean, working products
 
 ---
 
